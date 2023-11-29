@@ -72,4 +72,15 @@ $ cast --help
 2. Integration Tests ✅
    1. PIT STOP! How can we make running these scripts easier??? ✅
 3. Programatic Verification ✅
-4. Push to GitHub
+4. Push to GitHub ✅
+
+# About
+
+This is a crowd sourcing app!
+
+# Getting Started
+
+## Requirements
+
+## Quickstart
+
